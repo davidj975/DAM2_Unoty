@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      waifu1_0: -3056304934662833612
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
