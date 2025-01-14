@@ -8,10 +8,10 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Particulas
+  - Text
   - Water
   - UI
-  - 
+  - Particulas
   - 
   - 
   - 
@@ -41,5 +41,13 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Particulas
+    uniqueID: 1641270209
+    locked: 0
+  - name: Texto
+    uniqueID: 679878399
+    locked: 0
   m_RenderingLayers:
   - Default
+  - Particulas
+  - Texto
